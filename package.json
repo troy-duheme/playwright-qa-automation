@@ -1,0 +1,14 @@
+{
+  "name": "playwright-qa-automation",
+  "version": "1.0.0",
+  "description": "Automated UI and end-to-end testing using Playwright and JavaScript.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
