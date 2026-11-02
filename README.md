@@ -33,6 +33,21 @@ The test suite covers authentication, inventory management, shopping cart functi
 
 This project includes a structured QA test plan outlining the testing strategy, scope, risk assessment, test coverage, and execution criteria.
 
+
+### Test Case Matrix
+
+📊 **[View Test Case Matrix](docs/TEST_CASES.md)**
+
+A structured test case repository containing:
+
+- 9 documented test cases (TC-001 through TC-009)
+- Test objectives, preconditions, steps, and expected results
+- Risk-based test priorities
+- Requirements Traceability Matrix (RTM)
+- Direct links to the corresponding Playwright automation scripts
+- Test execution results and coverage limitations
+
+
 ### Test Plan
 
 📋 **[View QA Test Plan](docs/TEST_PLAN.md)**
