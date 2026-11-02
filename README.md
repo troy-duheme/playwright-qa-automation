@@ -29,6 +29,26 @@ The test suite covers authentication, inventory management, shopping cart functi
 | Git & GitHub | Version control and repository hosting |
 | HTML Reporter | Test execution reporting |
 
+## QA Test Documentation
+
+This project includes a structured QA test plan outlining the testing strategy, scope, risk assessment, test coverage, and execution criteria.
+
+### Test Plan
+
+📋 **[View QA Test Plan](docs/TEST_PLAN.md)**
+
+The test plan documents:
+
+- Testing objectives and scope
+- Risk-based testing strategy and prioritization
+- Test environment and test data
+- Test cases TC-001 through TC-009
+- Entry and exit criteria
+- Defect management and failure investigation
+- Test execution results and identified risks
+
+This documentation complements the automated test scripts by demonstrating the planning and analytical aspects of software quality assurance.
+
 ## Automated Test Coverage
 
 ### Authentication
